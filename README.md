@@ -26,17 +26,17 @@ O sistema utiliza Arduino Uno e sensores de som, encoder, potenciometro e buzzer
 A navegação entre os menus é feita através do giro e clique do botão do encoder.
 
 
-<img width="996" height="715" alt="image" src="https://github.com/user-attachments/assets/168e654a-bfea-4e2d-99da-a75880312073" />
+<img width="496" height="357" alt="image" src="https://github.com/user-attachments/assets/168e654a-bfea-4e2d-99da-a75880312073" />
 
 
 O primeiro experimento consiste na geração de ondas a partir de uma frequência definida pelo giro do potenciômetro.
 
 
-<img width="996" height="763" alt="image" src="https://github.com/user-attachments/assets/5d032642-8dad-4492-ac0b-f346ae59c2ed" />
+<img width="496" height="357" alt="image" src="https://github.com/user-attachments/assets/5d032642-8dad-4492-ac0b-f346ae59c2ed" />
 
 
 O segundo experimento trata da captação da amplitude do som ambiente através do sensor de som.
 
 
-<img width="1000" height="783" alt="image" src="https://github.com/user-attachments/assets/da650588-5ebc-465d-8538-2a4aa474147c" />
+<img width="496" height="357" alt="image" src="https://github.com/user-attachments/assets/da650588-5ebc-465d-8538-2a4aa474147c" />
 

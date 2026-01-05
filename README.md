@@ -1,11 +1,11 @@
-# Laboratorio Interativo de Ondas
+# Laboratório Interativo de Ondas
 
 Laboratório virtual de experimentos de físicas das ondas baseado em sistema embarcado.
 
 
 ## Como instalar
 
-1. Conectar o potenciometro, buzzer, encoder e sensor de som ao arduíno e alterar as portas usadas no código .ino para as portas do seu sistema.
+1. Conectar o potenciômetro, buzzer, encoder e sensor de som ao arduíno e alterar as portas usadas no código .ino para as portas do seu sistema.
    
 
 <img width="310" height="152" alt="image" src="https://github.com/user-attachments/assets/f6f267a4-65e0-4f85-affa-91e6493f6835" />
